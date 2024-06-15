@@ -4,7 +4,7 @@ import { useForm } from "react-hook-form";
 import { useActive } from "../Context/activeSaleContext";
 import { v4 as uuidv4 } from "uuid";
 import { format } from "date-fns";
-import { useState, useEffect } from "react";
+import { useState } from "react";
 import axios from "axios";
 import { useQuery } from "@tanstack/react-query";
 import "./home.css";
