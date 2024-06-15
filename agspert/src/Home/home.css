@@ -1,0 +1,24 @@
+.home-container {
+  padding: 20px;
+}
+
+.button-container {
+  margin: 20px;
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+}
+
+.modal-container {
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.table-container {
+  margin-top: 20px;
+}
+
+.theme-toggle-container {
+  margin-top: 20px;
+}

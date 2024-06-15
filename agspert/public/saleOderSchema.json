@@ -1,0 +1,12 @@
+{
+  "id": 11908,
+  "customerName": "chavi",
+  "product": [{ "label": "Blue T-shirt", "value": "248" }],
+  "sku_id": 220,
+  "sellingPrice": 200,
+  "quantity": 12,
+  "totalItems": 10,
+  "paid": false,
+  "invoice_no": "Invoice - 1212121",
+  "date": "7/5/2024"
+}
