@@ -14,7 +14,7 @@ import {
   useMultiStyleConfig,
 } from "@chakra-ui/react";
 import { MultiSelect } from "chakra-multiselect";
-import { useForm } from "react-hook-form";
+
 import { useEffect } from "react";
 export default function SaleModal({
   isOpen,
